@@ -342,6 +342,10 @@ nav{
   overflow-x: hidden;
 }
 
+.dashboard-page{
+  overflow: hidden;
+}
+
 .no-dashboard{
   background-image: url('../public/img/dash-bg.png');
   background-size: cover; 
